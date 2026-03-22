@@ -1,19 +1,27 @@
-<div align="center" width="50">
+ <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br> 
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<h1>Hi 👋, I'm Khaled</h1>
+<h3>Software Engineer 💻</h3>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+<p>🚀 Passionate about building scalable and clean solutions</p>
 
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
+
+<hr>
+
+## 🚀 About Me
+
+- 💻 Software Engineer with passion for problem solving  
+- 📱 Interested in building real-world applications  
+- 🧠 Currently learning new technologies & improving skills  
+- 💬 Ask me about **Programming, Tech, or anything fun**  
+- ⚡ Fun fact: I turn coffee ☕ into code  
+
+---
+
+## 🛠️ Tech Stack
 
 <hr></hr>
 
@@ -86,5 +94,6 @@ class About extends Me {
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
-</div>
+<!-- </div>
+ --> -->
 
