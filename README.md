@@ -1,16 +1,32 @@
-## Hi Welcome 👋
+# <div style="font-size: 40px; animation: move 3s infinite;">مرحباً! 👋</div>
 
-<!--
-**khaledeng0982-eng/khaledeng0982-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![مطور مبرمج](https://your-image-link.com/your-image.jpg)
 
-Here are some ideas to get you started:
+## اللغات التي أستخدمها 💻
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## عني 🧑‍💻
+أنا مبرمج شغوف بتطوير البرمجيات وبناء تطبيقات مبتكرة. أستمتع بحل المشكلات التقنية والعمل على مشاريع مفتوحة المصدر.
+
+---
+
+## تابعني عبر
+- [LinkedIn](https://www.linkedin.com)
+- [Twitter](https://twitter.com)
+- [Portfolio](https://portfolio.com)
+
+---
+
+<style>
+  @keyframes move {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(10px); }
+    100% { transform: translateX(0); }
+  }
+</style>
