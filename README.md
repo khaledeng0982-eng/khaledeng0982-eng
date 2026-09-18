@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br> 
 
 <h1>Hi 👋, I'm Khaled</h1>
-<h3>Software Engineer 💻</h3>
+<h3>Cybersecurity 🥷🏻💻</h3>
 
 <p>🚀 Passionate about building scalable and clean solutions</p>
 
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 💻 Software Engineer with passion for problem solving  
+- 💻 Cybersecurity Engineer with passion for problem solving  
 - 📱 Interested in building real-world applications  
 - 🧠 Currently learning new technologies & improving skills  
 - 💬 Ask me about **Programming, Tech, or anything fun**  
